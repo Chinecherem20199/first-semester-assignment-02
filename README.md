@@ -15,3 +15,4 @@ Complete any two out of the three challenges. See below for details of each chal
  See https://www.thoughtco.com/celcius-to-farenheit-formula-609227 for the conversion formula. If you did Challenge - 3, remove the comment in the line just after the `celsiusToFahrenheit` function, otherwise leave the comment.
 
 
+# first-semester-assignment-02
